@@ -1,4 +1,4 @@
-# RedisModules-ExecuteCommand for Windows
+# RedisModules ExecuteCommand for Windows
 可在Windows下执行系统命令的Redis模块 。   
 可在Linux下执行系统命令的Redis模块在 ![这里](https://github.com/puckiestyle/RedisModules-ExecuteCommand)
 
