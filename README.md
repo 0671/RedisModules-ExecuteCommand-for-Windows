@@ -24,3 +24,7 @@
 ## 反馈
 Mail：h.vi@qq.com   
 或者 [issue](https://github.com/0671/RedisModules-ExecuteCommand-for-Windows/issues/new)、PR  
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/0671/RedisModules-ExecuteCommand-for-Windows.svg)](https://github.com/0671/RedisModules-ExecuteCommand-for-Windows)
